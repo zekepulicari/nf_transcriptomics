@@ -1,2 +1,0 @@
-Module	Section	Sample Name	Source
-HISAT2	all_sections	ENCSR000CPO2_1	/data/aligned/ENCSR000CPO2_1_trimmed.hisat2.log
