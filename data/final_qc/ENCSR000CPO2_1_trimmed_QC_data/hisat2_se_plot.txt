@@ -1,0 +1,2 @@
+Sample	SE mapped uniquely	SE multimapped	SE not aligned
+ENCSR000CPO2_1	32756.0	5291.0	2999.0

@@ -1,0 +1,2 @@
+Sample	hisat2-overall_alignment_rate
+ENCSR000CPO2_1	92.69

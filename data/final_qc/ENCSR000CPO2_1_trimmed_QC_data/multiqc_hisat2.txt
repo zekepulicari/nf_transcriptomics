@@ -1,0 +1,2 @@
+Sample	unpaired_total	unpaired_aligned_none	unpaired_aligned_one	unpaired_aligned_multi	overall_alignment_rate
+ENCSR000CPO2_1	41046	2999	32756	5291	92.69
