@@ -3,7 +3,7 @@
 process HISAT2_ALIGN {
 
     container "community.wave.seqera.io/library/hisat2_samtools:5e49f68a37dc010e"
-    publishDir "${projectDir}/results/hisat2_align", mode: 'symlink'
+    publishDir "${projectDir}/results/hisat2_align_se", mode: 'symlink'
 
     input:
         path reads
